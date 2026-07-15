@@ -108,6 +108,29 @@ A lightweight browser extension that intelligently applies RTL only to Persian/A
 </tr>
 </table>
 
+## Selected collaborations & brand environments
+
+Most of my production work is private or company-owned, so public GitHub activity only shows a small part of the real work. These are some of the public-facing brands and business environments I have worked with, built systems around, or supported through BI, automation, software, and data products.
+
+<table>
+<tr>
+<td width="50%" valign="top"><strong>Shahrfarsh</strong><br/>Credit infrastructure, customer credit pre-check flows, provider integrations, secure operations, and enterprise portal foundations.</td>
+<td width="50%" valign="top"><strong>Rouhi / Matinyar Group</strong><br/>Business intelligence, marketing intelligence, CDP, BI Agent concepts, data products, and operational analytics.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>SnappMarket / SnappFood 360 ecosystem</strong><br/>Marketplace and food-service analytics, dashboard workflows, campaign performance, menu engineering, and operational reporting.</td>
+<td width="50%" valign="top"><strong>Sib360</strong><br/>Marketing dashboards, customer analytics, campaign data, and business-performance reporting for digital growth workflows.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>Atawich</strong><br/>Restaurant and branch-performance analytics, marketing operations, customer behavior, and decision-support reporting.</td>
+<td width="50%" valign="top"><strong>SYBT Group / QC360</strong><br/>Enterprise BI, quality governance, CAPA/SPC analytics, inspection systems, and executive reporting platforms.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>IranGoosht</strong><br/>Financial reporting automation and operational reporting pipelines that reduced manual preparation time from days to seconds.</td>
+<td width="50%" valign="top"><strong>Private B2B, retail & operations teams</strong><br/>Internal tools, dashboards, process automation, CRM workflows, integrations, and deployment systems for private environments.</td>
+</tr>
+</table>
+
 ## Core stack
 
 <div align="center">
