@@ -3,6 +3,9 @@
 
   <br />
 
+  [![English](https://img.shields.io/badge/Language-English-10a37f?style=flat-square)](README.md)
+  [![فارسی](https://img.shields.io/badge/زبان-فارسی-111827?style=flat-square)](README.fa.md)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahin_Eskandari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-eskandari/)
   [![Email](https://img.shields.io/badge/Email-imshahineskandari%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:imshahineskandari@gmail.com)
   [![Website](https://img.shields.io/badge/Web-emrooz.school-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://emrooz.school)
