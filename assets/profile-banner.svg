@@ -1,0 +1,58 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#070B16"/>
+    <stop offset="0.52" stop-color="#0B1223"/>
+    <stop offset="1" stop-color="#11102A"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="230" y1="100" x2="1310" y2="410" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#22D3EE"/>
+    <stop offset="0.52" stop-color="#3B82F6"/>
+    <stop offset="1" stop-color="#8B5CF6"/>
+  </linearGradient>
+  <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1325 85) rotate(143) scale(530 330)">
+    <stop stop-color="#7C3AED" stop-opacity="0.32"/>
+    <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 430) rotate(-30) scale(480 310)">
+    <stop stop-color="#06B6D4" stop-opacity="0.25"/>
+    <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="12"/>
+  </filter>
+</defs>
+<rect width="1600" height="500" rx="32" fill="url(#bg)"/>
+<rect width="1600" height="500" rx="32" fill="url(#glow1)"/>
+<rect width="1600" height="500" rx="32" fill="url(#glow2)"/>
+<g opacity="0.13" stroke="#94A3B8">
+  <path d="M0 100H1600M0 200H1600M0 300H1600M0 400H1600"/>
+  <path d="M200 0V500M400 0V500M600 0V500M800 0V500M1000 0V500M1200 0V500M1400 0V500"/>
+</g>
+<g opacity="0.72">
+  <path d="M1040 358L1130 292L1216 325L1300 218L1387 255L1482 138" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1040 358L1130 292L1216 325L1300 218L1387 255L1482 138" stroke="#4F46E5" stroke-opacity="0.28" stroke-width="18" filter="url(#shadow)"/>
+  <g fill="#0B1223" stroke="url(#accent)" stroke-width="4">
+    <circle cx="1040" cy="358" r="10"/><circle cx="1130" cy="292" r="10"/><circle cx="1216" cy="325" r="10"/>
+    <circle cx="1300" cy="218" r="10"/><circle cx="1387" cy="255" r="10"/><circle cx="1482" cy="138" r="10"/>
+  </g>
+  <g opacity="0.34" stroke="#38BDF8" stroke-width="2">
+    <path d="M1130 292L1104 178L1245 125L1300 218"/>
+    <path d="M1216 325L1270 405L1420 376L1387 255"/>
+    <path d="M1245 125L1387 255L1482 138"/>
+  </g>
+  <g fill="#22D3EE" opacity="0.8">
+    <circle cx="1104" cy="178" r="5"/><circle cx="1245" cy="125" r="5"/><circle cx="1270" cy="405" r="5"/><circle cx="1420" cy="376" r="5"/>
+  </g>
+</g>
+<rect x="110" y="92" width="94" height="8" rx="4" fill="url(#accent)"/>
+<text x="110" y="185" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Shahin Eskandari</text>
+<text x="113" y="245" fill="#A5B4FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="28" font-weight="600" letter-spacing="1.2">AI &amp; BUSINESS INTELLIGENCE ARCHITECT</text>
+<text x="113" y="307" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="400">BI Agents  ·  Data Products  ·  Automation  ·  Enterprise Full-Stack</text>
+<g transform="translate(113 356)">
+  <rect width="558" height="62" rx="18" fill="#0F172A" fill-opacity="0.8" stroke="#334155"/>
+  <circle cx="31" cy="31" r="8" fill="#22D3EE"/>
+  <text x="55" y="40" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="23">Data → Intelligence → Decisions → Action</text>
+</g>
+<rect x="1" y="1" width="1598" height="498" rx="31" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
