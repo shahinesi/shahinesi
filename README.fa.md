@@ -5,6 +5,9 @@
 
   <br />
 
+  [![English](https://img.shields.io/badge/Language-English-111827?style=flat-square)](README.md)
+  [![فارسی](https://img.shields.io/badge/زبان-فارسی-10a37f?style=flat-square)](README.fa.md)
+
   [![لینکدین](https://img.shields.io/badge/LinkedIn-Shahin_Eskandari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-eskandari/)
   [![ایمیل](https://img.shields.io/badge/Email-imshahineskandari%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:imshahineskandari@gmail.com)
   [![وب‌سایت](https://img.shields.io/badge/Web-emrooz.school-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://emrooz.school)
@@ -22,7 +25,7 @@
 
 حوزه اصلی فعالیت من معمولاً ترکیبی از این موارد است:
 
-- **هوش تجاری:** سامانه‌های KPI، پلتفرم داده مشتری، تحلیل رفتار، WBR، هوش بازاریابی، مهندسی منو و گزارش‌های مدیریتی
+- **هوش تجاری:** سامانه‌های KPI، CDP، تحلیل رفتار، WBR، هوش بازاریابی، مهندسی منو و گزارش‌های مدیریتی
 - **مهندسی هوش مصنوعی:** BI Agent، برنامه‌ریزی معنایی، گردش‌کارهای ابزارمحور، ارزیابی شواهد، حافظه، گاردریل و تأیید انسانی
 - **نرم‌افزار سازمانی:** پلتفرم‌های Next.js و NestJS، کنترل دسترسی، ممیزی، چندمستاجری، اتصال به سرویس‌دهندگان و عملیات تولید
 - **اتوماسیون:** ETL، گردش‌کارهای CRM و بازاریابی، خطوط گزارش‌گیری و حذف فرایندهای تکراری
