@@ -4,4 +4,4 @@
   <br />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahin_Eskandari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-eskandari/)
-  [![Email](https://img.shields.io/badge/Email-imshahineskandari%40gmail.com-111827?style=flat-square&
+  [![Email](https://img.shields.io/badge/Email-imshahineskandari%40gmail.com-
